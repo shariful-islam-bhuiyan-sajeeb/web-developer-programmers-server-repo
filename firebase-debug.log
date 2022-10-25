@@ -1,0 +1,75 @@
+[debug] [2022-10-24T15:23:04.767Z] ----------------------------------------------------------------------
+[debug] [2022-10-24T15:23:04.769Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-10-24T15:23:04.769Z] CLI Version:   11.15.0
+[debug] [2022-10-24T15:23:04.769Z] Platform:      win32
+[debug] [2022-10-24T15:23:04.769Z] Node Version:  v16.15.1
+[debug] [2022-10-24T15:23:04.770Z] Time:          Mon Oct 24 2022 21:23:04 GMT+0600 (Bangladesh Standard Time)
+[debug] [2022-10-24T15:23:04.770Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-10-24T15:23:04.774Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-10-24T15:23:04.775Z] > authorizing via signed-in user (mdsajeeb4345@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\projects\assignment-10-server
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-10-24T15:24:45.044Z] > refreshing access token with scopes: []
+[debug] [2022-10-24T15:24:45.046Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2022-10-24T15:24:45.046Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2022-10-24T15:24:45.529Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2022-10-24T15:24:45.529Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2022-10-24T15:24:45.536Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2022-10-24T15:24:46.687Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2022-10-24T15:24:46.687Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[debug] [2022-10-24T15:27:07.262Z] ----------------------------------------------------------------------
+[debug] [2022-10-24T15:27:07.264Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-10-24T15:27:07.264Z] CLI Version:   11.15.0
+[debug] [2022-10-24T15:27:07.264Z] Platform:      win32
+[debug] [2022-10-24T15:27:07.264Z] Node Version:  v16.15.1
+[debug] [2022-10-24T15:27:07.265Z] Time:          Mon Oct 24 2022 21:27:07 GMT+0600 (Bangladesh Standard Time)
+[debug] [2022-10-24T15:27:07.265Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-10-24T15:27:07.270Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-10-24T15:27:07.270Z] > authorizing via signed-in user (mdsajeeb4345@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\projects\assignment-10-server
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-10-24T15:28:42.837Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2022-10-24T15:28:43.596Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2022-10-24T15:28:43.596Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
