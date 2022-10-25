@@ -1,18 +1,112 @@
 [
     {
-        "id":1,
-        "name":"sonar bangla"
+        "id": "1",
+        "balance": "$120",
+        "lecture":12,
+        "Duration":"10 week",
+        "language":"english",
+        "totalView":1315,
+        "rating":4.5,
+        "picture": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
+        "title": "HTML for Beginners specialization",
+        "details": "HTML works by telling the internet browser how to display the page. First, the author uses a basic text editor on the computer (such as TextEdit for Mac) to create their HTML document. The author then fills their HTML document with a series of HTML elements, using HTML tags."
     },
     {
-        "id":2,
-        "name":"sonar bangla"
+        "id": "2",
+        "balance": "$445",
+        "lecture":13,
+        "Duration":"15 week",
+        "language":"english",
+        "totalView":2500,
+        "rating":4.6,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy4qyzmk9sj_1ZeSWWFGfeecaPSYWK0ETe03tKp2nuVYE_rFgwtMgVg4JZjfXLNfVVDfU&usqp=CAU",
+        "title": "CSS for Beginners",
+        "details": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
     },
     {
-        "id":3,
-        "name":"sonar bangla"
+        "id": "3",
+        "balance": "$130",
+        "lecture":14,
+        "Duration":"16 week",
+        "language":"english",
+        "totalView":1203,
+        "rating":4.9,
+        "picture": "https://icons.getbootstrap.com/assets/img/icons-hero.png",
+        "title": "Bootstrap  practice for beginners",
+        "details": "Bootstrap is a massive collection of reusable and versatile pieces of code which are written in CSS, HTML and JavaScript. Since it is also a framework, all the foundations are already laid for responsive web development, and all developers have to do is insert the code into the pre-defined grid system."
     },
     {
-        "id":4,
-        "name":"sonar bangla"
+        "id": "4",
+        "balance": "$500",
+        "lecture":15,
+        "Duration":"4 week",
+        "language":"english",
+        "totalView":5000,
+        "rating":8.8,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixYgLSSVCB9SR2aVkiQrahyp5aKUjECFFqEGLLCJNcw&s",
+        "title": "Tailwind css style install",
+        "details": "Tailwind CSS works by scanning all of your HTML files, JavaScript components, and any other templates for class names, generating the corresponding styles and then writing them to a static CSS file. It's fast, flexible, and reliable.Tailwind CSS is a utility-first CSS (Cascading Style Sheets) framework with predefined classes that you can use to build and design web pages directly in your markup. It lets you write CSS in your HTML in the form of predefined classes."
+    },
+    {
+        "id": "5",
+        "balance": "$520",
+        "lecture":16,
+        "Duration":"6 week",
+        "language":"english",
+        "totalView":8500,
+        "rating":4.5,
+        "picture": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
+        "title": "JavaScript (JS) is a lightweight, interpreted compiled programming language with first-class functions",
+        "details": "JavaScript is a powerful programming language that can add interactivity to a website. It was invented by Brendan Eich.JavaScript is versatile and beginner-friendly. With more experience, you'll be able to create games, animated 2D and 3D graphics, comprehensive database-driven apps, and much more!JavaScript itself is relatively compact, yet very flexible. Developers have written a variety of tools on top of the core JavaScript language, unlocking a vast amount of functionality with minimum effort. These include."
+    },
+    {
+        "id": "6",
+        "balance": "$500",
+        "lecture":13,
+        "Duration":"20 week",
+        "language":"english",
+        "totalView":8000,
+        "rating":7.5,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFTXA6m-k7MbwnlgA5H5PwFeFDxBG-Ma5PUhRdq-T1JQ&s",
+        "title": "React implements a browser-independent DOM system for performance and cross-browser compatibility",
+        "details": "We’ll assume that you have some familiarity with HTML and JavaScript, but you should be able to follow along even if you’re coming from a different programming language. We’ll also assume that you’re familiar with programming concepts like functions, objects, arrays, and to a lesser extent, classes.If you need to review JavaScript, we recommend reading this guide. Note that we’re also using some features from ES6 — a recent version of JavaScript. In this tutorial, we’re using arrow functions, classes, let, and const statements. You can use the Babel REPL to check what ES6 code compiles to.."
+    },
+    {
+        "id": "7",
+        "balance": "$120",
+        "lecture":12,
+        "Duration":"10 week",
+        "language":"english",
+        "totalView":1315,
+        "rating":4.5,
+        "picture": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
+        "title": "HTML for Beginners specialization",
+        "details": "HTML works by telling the internet browser how to display the page. First, the author uses a basic text editor on the computer (such as TextEdit for Mac) to create their HTML document. The author then fills their HTML document with a series of HTML elements, using HTML tags."
+    },
+    {
+        "id": "8",
+        "balance": "$520",
+        "lecture":18,
+        "Duration":"5 week",
+        "language":"english",
+        "totalView": 4500,
+        "rating":9.5,
+        "picture": "https://www.educative.io/v2api/editorpage/4807683539468288/image/5379198832082944",
+        "title": "React Router is a standard library for routing in React. ",
+        "details": "React router does partial matching, so /users partially matches /users/create , so it would incorrectly return the Users route again! The exact param disables the partial matching for a route and makes sure that it only returns the route if the path is an EXACT match to the current url."
+    },
+    {
+        "id": "9",
+        "balance": "$50",
+        "lecture":13,
+        "Duration":"12 week",
+        "language":"english",
+        "totalView":450,
+        "rating":3.5,
+        "picture": "https://miro.medium.com/max/1400/1*ZBSX06fzK-gFy_Cj3FwzUg.png",
+        "title": "how to integrate push notifications in React Native apps using firebase, send notifications with the help of firebase and handle ",
+        "details": "I have my react website hosted on firebase with custom domain, the domain is added to google search console/google webmaster, the problem is the title and description of website does not change when i search my website on google.com.it keeps showing old title and description.i have tried react helmet, react meta tags, browser clear history, even tried with simple html file deployment, the title and description does not change.Thanks for helping.."
     }
+    
+    
 ]
