@@ -95,7 +95,7 @@
         "rating": 4.7,
         "totalView": 1150,
         "title": "Introduction to Networks and Cisco Devices",
-        "details": "In this 2-hours guided project, you will identify different components such as end devices, intermediary devices, and connection media and simulate network topologies in the Packet Tracer, manage Cisco network devices using telnet, SSH, and Console connections, and secure access to Cisco devices using passwords and password encryption services by the end of this project, you will be able to use the Packet Tracer to create network topologies that are like the one you’re seeing on the screen, connect to network devices using telnet, SSH, and Console, and manage basic security settings on Cisco devices."
+        "details": "In this 2-hours guided project, you will identify different components such as end devices, intermediary devices, and connection media and simulate network topologies in the Packet Tracer, manage Cisco network devices using telnet, SSH, and Console connections, and secure access to Cisco devices using passwords and password encryption services by the end of this project, you will be able to use the Packet Tracer to create network topologies that are like the one you’re seeing on the screen, connect to network devices using telnet, SSH, and Console, and manage basic category added file security settings on Cisco devices."
     },
     {
         "id": 8,
